@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-new-firebase-app-c6a12": {
+      "hosting": {
+        "my-app": [
+          "my-new-firebase-app-c6a12"
+        ]
+      }
+    }
+  }
+}
